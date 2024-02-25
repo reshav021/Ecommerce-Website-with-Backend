@@ -1,4 +1,4 @@
-# Deployed link: https://simpleecommerceplatform.netlify.app
+# Deployed link: [https://simpleecommerceplatform.netlify.app](https://simpleecommerceplatform.netlify.app)
 
 # Frontend
 
